@@ -41,6 +41,6 @@ GTX 광역철도 등 철도개통, 수도권 제2순환고속도로와 서울~�
 2. postgreSQL, QGIS로만 해봤던 공간조인을 geopandas(sjoin)으로 할 수 있음.
 3. folium으로 더 다양한 지도 시각화를 할 수 있음. (vworld 지도 레이어 추가, 여러개의 레이어 시각화 등)
 
-[공모전](https://compas.lh.or.kr/subj/past/code-list?subjNo=SBJ_2012_002)에 입상작 PPT, 발표 영상을 확인 할 수 있습니다.
+[공모전](https://compas.lh.or.kr/subj/past/code-list?subjNo=SBJ_2012_002)에서 입상작 PPT, 발표 영상을 확인 할 수 있습니다.
 
 
